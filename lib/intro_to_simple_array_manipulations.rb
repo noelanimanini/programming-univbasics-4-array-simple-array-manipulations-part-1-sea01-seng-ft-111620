@@ -8,4 +8,8 @@ end
 
 def using_pop(array)
   array.pop
+end
+
+def using_pops_with_args(array)
+  @dog_breeds.pop(2)
 end 
